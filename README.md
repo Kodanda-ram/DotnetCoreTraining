@@ -1,2 +1,2 @@
-# DotnetCoreTraining
-.NET Core training with AWS
+# .NETMicroService1
+MicroService Tutorial for .NET Core
